@@ -11,7 +11,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="http://yusriyahisna.my.id/" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://www.instagram.com/yusriyah.im/" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /><br />
 
@@ -36,6 +36,7 @@
 [website]: http://yusriyahisna.my.id/
 [python]: https://www.python.org/
 [linkedin]: https://www.linkedin.com/in/yusriyah-im/
+[instagram]: https://www.instagram.com/yusriyah.im/
 [email]: mailto:yusriyahisna24@gmail.com
 [javascript]: https://www.javascript.com/
 [mysql]: https://www.mysql.com/
