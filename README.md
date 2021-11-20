@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YusriyahIM" alt="YusriyahIM" /> </p>
 
 - 😄 Hi, My name is Yusriyah. I'm self-motivation, fast-learner, and meticulous student in Informatics. Experience in Web Development using Django and Flask. Familiar with OOP languages, front-end using cms WordPress, database structures.
-- 🌱 I’m currently learning Cloud Computing especially Goocle Cloud Platform and AWS, and Machine Learning
+- 🌱 I’m currently learning Data Science and Cloud Computing especially Goocle Cloud Platform and AWS, and Machine Learning
 - ⚡ Fun fact: Besides learning about technology, I also learn foreign languages, such as Korean and Japanese. I like listening to music, and watching movies
 
 ### Connect with me:
