@@ -1,24 +1,29 @@
-### Hi there 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YusriyahIM" alt="YusriyahIM" /> </p>
 
-- 😄 Hi, My name is Yusriyah. I'm self-motivation, fast-learner, and meticulous student in Informatics. Experience in Web Development using Django and Flask. Familiar with OOP languages,database structures.
+<!-- - 😄 Hi, My name is Yusriyah. I'm self-motivation, fast-learner, and meticulous student in Informatics. Experience in Web Development using Django and Flask. Familiar with OOP languages,database structures.
 - 🌱 I’m currently learning Machine Learning (Data Science), and Cloud Computing especially Google Cloud Platform, AWS, and Azure
-- ⚡ Fun fact: Besides learning about technology, I also learn foreign languages, such as Korean and Japanese. I love reading books, listening to music, and watching movies
+- ⚡ Fun fact: Besides learning about technology, I also learn foreign languages, such as Korean and Japanese. I love reading books, listening to music, and watching movies -->
+### Hi there 👋
+- 🧕🏻🎨 My name is Yusriyah! I have a strong dedication to learning and utilizing new technologies in my capacity as a UI/UX designer. I'm quite proficient in Figma, Sketch, and Adobe XD, I specialize in creating comprehensive design systems, low-fidelity and high-fidelity design, and creating interactive prototypes.
+- 💻 My skills extend beyond design tools to include HTML/CSS/JavaScript coding, ensuring seamless integration between design and implementation.
+- 🐞 I have proficiency in the Python and JavaScript programming languages, complementing my design skills with strong technical abilities. With a strong focus on software quality assurance, I oversee adequate defect and inconsistency detection, perform thorough production testing, and meticulously document and analyze discovered bugs.
+- 📊🤖 Apart from that, I also enjoy working with data to uncover insights, utilizing AI and machine learning to predict user behaviors and personalize experiences.
+- 🚀 Driven by a continuous pursuit of knowledge and a passion for solving problems, I embody a proactive and forward-thinking approach in my professional endeavors. Confident in my ability to bring real value to projects, I want to contribute effectively to any team dynamic.
 
-### Connect with me:
+### Connect with me 📫 :
 
 [<img align="left" alt="codeSTACKr | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="http://yusriyahisna.my.id/" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="http://yusriyahisna.my.id/" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="https://www.instagram.com/yusriyah.im/" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /><br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YusriyahIM&show_icons=true" alt="YusriyahIM" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YusriyahIM&show_icons=true" alt="YusriyahIM" /></p> -->
 
 ### Languages and Tools:
 
+[<img align="left" alt="Figma" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />][figma]
 [<img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Flask" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
@@ -46,6 +51,7 @@
 [html]: -
 [css]: -
 [wordpress]: https://wordpress.com/
+[figma]: https://figma.com/
 
 <!--
 **YusriyahIM/YusriyahIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
