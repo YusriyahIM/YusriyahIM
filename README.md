@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Machine Learning (Data Science), and Cloud Computing especially Google Cloud Platform, AWS, and Azure
 - ⚡ Fun fact: Besides learning about technology, I also learn foreign languages, such as Korean and Japanese. I love reading books, listening to music, and watching movies -->
 ### Hi there 👋
-- 🧕🏻🎨 My name is Yusriyah! I have a strong dedication to learning and utilizing new technologies in my capacity as a UI/UX designer. I'm quite proficient in Figma, Sketch, and Adobe XD, I specialize in creating comprehensive design systems, low-fidelity and high-fidelity design, and creating interactive prototypes.
-- 💻 My skills extend beyond design tools to include HTML/CSS/JavaScript coding, ensuring seamless integration between design and implementation.
-- 🐞 I have proficiency in the Python and JavaScript programming languages, complementing my design skills with strong technical abilities. With a strong focus on software quality assurance, I oversee adequate defect and inconsistency detection, perform thorough production testing, and meticulously document and analyze discovered bugs.
-- 📊🤖 Apart from that, I also enjoy working with data to uncover insights, utilizing AI and machine learning to predict user behaviors and personalize experiences.
-- 🚀 Driven by a continuous pursuit of knowledge and a passion for solving problems, I embody a proactive and forward-thinking approach in my professional endeavors. Confident in my ability to bring real value to projects, I want to contribute effectively to any team dynamic.
+- 🐞 My name is Yusriyah! I always approaches every challenge as an opportunity to learn and grow, passionate self-taught developer with a love for solving problems and a strong focus on building robust systems. My primary skills include Python, particularly with frameworks like Flask and Django. With a strong focus on software quality assurance, I oversee adequate defect and inconsistency detection, perform thorough production testing, and meticulously document and analyze discovered bugs. I thrive on challenges and enjoy translating complex problems into elegant solutions, continuously honing my skills and expanding my knowledge in software development 
+- 🧕🏻🎨 I also have a strong dedication to learning and utilizing new technologies in my capacity as a UI/UX designer. I'm quite proficient in Figma, Sketch, and Adobe XD, I specialize in creating comprehensive design systems, low-fidelity and high-fidelity design, and creating interactive prototypes
+- 💻 My skills extend beyond design tools to include HTML/CSS/JavaScript coding, ensuring seamless integration between design and implementation
+- 📊🤖 Apart from that, I also enjoy working with data to uncover insights, utilizing AI and machine learning to predict user behaviors and personalize experiences
+- 🚀 Driven by a continuous pursuit of knowledge and a passion for solving problems, I embody a proactive and forward-thinking approach in my professional endeavors. Confident in my ability to bring real value to projects, I want to contribute effectively to any team dynamic
 
 ### Connect with me 📫 :
 
