@@ -30,7 +30,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusriyah-im/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/yusriyahim/Hi-this-is-Yusriyah-6149945745c7458aa9637e5086b38239)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://bayuwirabrata.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@yusriyahim)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yusriyah-im)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YusriyahIM&show_icons=true" alt="YusriyahIM" /></p> -->
